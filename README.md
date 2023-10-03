@@ -23,3 +23,4 @@ SQL for data extraction and transformation.
 Power BI for data visualization and interactive dashboards.
 
 __Data Sources__
+https://github.com/palakthapa/SQL-Data-Analysis-Project-Enhancing-Namma-Yatri-App-Insights/blob/main/namma_yatri.xlsx
